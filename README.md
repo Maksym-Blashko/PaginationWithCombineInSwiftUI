@@ -2,7 +2,7 @@
 
 This simple project shows how to build a pagination list using the Combine and SwiftUI frameworks, and MVVM iOS app architecture.
 For this example, I use a free, open-source API for generating random user data - "https://randomuser.me/".
-Also, I use default networking for Axon's project and force update class.
+Also, I use default networking for all my projects and force update class.
 
 ## How to use
 
